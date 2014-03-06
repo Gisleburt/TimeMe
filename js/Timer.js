@@ -1,6 +1,6 @@
 /**
  * A simple Timer class
- * @author Daniel Mason <daniel@loftdigital.com
+ * @author Daniel Mason <daniel@danielmason.com>
  */
 
 var Timer = function(config) {
